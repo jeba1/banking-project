@@ -1,3 +1,5 @@
 We are going over git Merge  topic 
 adding content into reository
 
+Cloned this file using UI tool called SourceTree
+
